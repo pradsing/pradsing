@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradsing
+- 👋 Hi, I’m PDS
 - 👀 I’m interested in Python development
 - 🌱 I’m currently learning Python based GUI development
 - 💞️ I’m looking to collaborate on all things innovative !!
